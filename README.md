@@ -1,7 +1,7 @@
 ## Oii, eu sou a Carol
 
 
-Previamente:<br>
+Brevemente:<br>
   &bull; Trabalho como programadora em C# <br>
   &bull; Atualmente estou aprendendo Python e me aperfeiçoando dia após dia em desenvolvimento .NET<br>
   &bull; Depois do aprender a sair do famigerado vim, tem o nano<br>
